@@ -45,39 +45,13 @@ function M.get()
 		SnacksDashboardTerminal = { link = "SnacksDashboardNormal" },
 		SnacksDashboardSpecial = { link = "Special" },
 		SnacksDashboardTitle = { link = "Title" },
-
-		SnacksIndent1 = {
-			fg = "#2e7de9",
-			nocombine = true,
-		},
-		SnacksIndent2 = {
-			fg = "#8c6c3e",
-			nocombine = true,
-		},
-		SnacksIndent3 = {
-			fg = "#587539",
-			nocombine = true,
-		},
-		SnacksIndent4 = {
-			fg = "#118c74",
-			nocombine = true,
-		},
-		SnacksIndent5 = {
-			fg = "#9854f1",
-			nocombine = true,
-		},
-		SnacksIndent6 = {
-			fg = "#7847bd",
-			nocombine = true,
-		},
-		SnacksIndent7 = {
-			fg = "#b15c00",
-			nocombine = true,
-		},
-		SnacksIndent8 = {
-			fg = "#f52a65",
-			nocombine = true,
-		},
+		rainbowcol1 = { fg = C.red },
+		rainbowcol2 = { fg = C.teal },
+		rainbowcol3 = { fg = C.yellow },
+		rainbowcol4 = { fg = C.blue },
+		rainbowcol5 = { fg = C.pink },
+		rainbowcol6 = { fg = C.flamingo },
+		rainbowcol7 = { fg = C.green },
 	}
 end
 
